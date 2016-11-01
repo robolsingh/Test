@@ -1,4 +1,7 @@
 <?php
+
+define('WP_HOME','http://ec2-52-63-75-162.ap-southeast-2.compute.amazonaws.com/');
+define('WP_SITEURL','http://ec2-52-63-75-162.ap-southeast-2.compute.amazonaws.com/');
 /**
  * The base configuration for WordPress
  *
